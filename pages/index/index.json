@@ -1,0 +1,6 @@
+{
+  "disableScroll":true,
+  "usingComponents": {
+    "mapGame":"/components/mapGame/mapGame"
+  }
+}

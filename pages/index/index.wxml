@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="container">
+  <mapGame id="mapGame"></mapGame>
+  <view class="btn" catchtap="tabClick">随机移动</view>
+</view>

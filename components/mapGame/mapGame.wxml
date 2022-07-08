@@ -1,0 +1,10 @@
+<!--components/mapGame/mapGame.wxml-->
+<view class="map-game">
+  <view class="main" id="mainId" bindtouchstart='touchStart' bindtouchmove='touchMove' bindtouchend='touchEnd'>
+    <view id="mapId" class="map" animation="{{animationMap}}">
+      <view class="icon" id="signId" animation="{{animationSign}}">
+        <image src="../../img/icon.jpg"></image>
+      </view>
+    </view>
+  </view>
+</view>

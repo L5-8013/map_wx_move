@@ -1,0 +1,17 @@
+/**index.wxss**/
+.container .btn{
+  width: 300rpx;
+  height: 100rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  bottom: 30rpx;
+  left: 50%;
+  margin-left: -150rpx;
+  z-index: 10;
+  background-color: #2BA245;
+  border-radius: 20rpx;
+  font-size: 45rpx;
+  color: #fff;
+}
